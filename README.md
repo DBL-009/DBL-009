@@ -1,7 +1,7 @@
 # Be blessed👋
 
 
-**DBL-009/Lewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DBL-009/Lewis** is a website designer, software engineer, discipline and team oriented operator
 
 Vision creates a path with order 
   
